@@ -3,3 +3,5 @@
 function NewFunction () {
     console.log("ayam")
 }
+
+// lalalalla
